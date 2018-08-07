@@ -14,8 +14,8 @@ $.getJSON( "data/chartdata/chart5.json", function( data ) {
             layout: 'vertical',
             align: 'left',
             verticalAlign: 'top',
-            x: 340,
-            y: 50,
+            x: 600,
+            y: 100,
             floating: true,
             borderWidth: 1,
             backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'

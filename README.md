@@ -7,11 +7,17 @@
 
 <h2 align="center">
   <br>
-  Data Analysis and Visualization
+  USDA Food Composition Data Visualization
   <br>
   <br>
 </h2>
 
+### Tools
+1. Highcharts JS
+2. USDA Food Composition Scraper
+
+### How to Run
+To access main dashboard, open `dashboard.html` on your html.
 
 ### Specifications
 
@@ -29,12 +35,6 @@
 
 7. Deadline pengumpulan tugas adalah __4 Agustus 2018 Pukul 23.59__
 
-<h1 align="center">
-  <br>
-  Selamat BerEksplorasi!
-  <br>
-  <br>
-</h1>
 
 <p align="center">
   <br>

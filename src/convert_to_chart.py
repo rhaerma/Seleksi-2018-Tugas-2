@@ -107,7 +107,7 @@ def toChart3(summary, dataset):
     print(categnutrientdata)
     for i in range(0, len(categnutrientdata)):
         for j in range(0, len(nutrientdata)):
-            categnutrientdata[i][j] = categnutrientdata[i][j]/numdata[i]
+            categnutrientdata[i][j] = round(categnutrientdata[i][j]/numdata[i], 2)
 
     series = []
     for i in range(0, len(nutrientdata)):
@@ -200,7 +200,7 @@ def toChart5(dataset, summary):
     print(nutrientrate)
     for i in range(0, len(nutrientrate)):
         for j in range(0, len(nutrientlist)):
-            nutrientrate[i][j] = nutrientrate[i][j]/numdata[i]
+            nutrientrate[i][j] = round(nutrientrate[i][j]/numdata[i], 2)
     series = []
     for i in range(0, len(nutrientlist)):
         seri = {}

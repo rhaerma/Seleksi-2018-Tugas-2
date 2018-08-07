@@ -8,7 +8,7 @@
   Erma Safira Nurmasyita 13516072
   <br>
 </h2>
-<h2 align="center">
+<h2>
   <br>
   Abstrak
   <br>
@@ -20,6 +20,7 @@ Pada eksplorasi visualisasi data ini, kami menganalisis kandungan nutrisi sejuml
 
 ## Analisis
 Kami melakukan scraping data sebanyak 2395 data makanan beserta kandungan nutrisi dan kategorinya. Kandungan nutrisi dihitung secara standard pada takaran sebesar 100 gram. Data Diperoleh enam kategori utama dengan persentase sebagai berikut:
+
 ![Percentage](img/percentage.png)
     
 Pada database USDA, data terbanyak berasal dari produk agrikultur berupa buah dan sayuran. Kemudian produk olahan snack, minuman, dan makanan cepar saji berada pada urutan nomor dua terbanyak.
@@ -36,12 +37,8 @@ Berikut merupakan pemetaan energi(kcal) dengan jumlah protein(g) dari tiga makan
 
 Dari chart di atas, produk sayuran rata-rata memiliki kandungan protein sebanyak 0-10 gram dengan energi yang disimpan sebesar 0-200 kcal. Buah dan produk olahan buah memiliki kandungan yang tidak berbeda jauh dengan sayuran, (0-5 gram protein dan 0-400 kcal energi). Sedangkan pada produk olahan daging memiliki kandungan protein tinggi (> 5 gram) dan menyimpan energi yang cenderung lebih besar.
 
-<h2 align="center">
-  <br>
-  Kandungan Lemak Jenuh dan Kolesterol
-  <br>
-  <br>
-</h2>
+
+## Kandungan Lemak Jenuh dan Kolesterol
 ![Fat, Fiber, and Cholesterol](img/fat.png)
 
 Dari data diperoleh rata-rata kandungan kolesterol pada 100 gram produk daging adalah 73 gram. Disusul dengan kandungan pada makanan cepat saji dengan besar setengahnya dan makanan restoran sebesar 30 gram. Sayuran dan sereal gandum memiliki kandungan kolesterol terrendah.
