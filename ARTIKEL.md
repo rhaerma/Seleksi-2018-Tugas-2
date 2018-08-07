@@ -13,7 +13,7 @@
   Abstrak
   <br>
 </h2>
-Pada eksplorasi visualisasi data ini, kami menganalisis kandungan nutrisi sejumlah kelompok makanan. Tujuan dari analisis ini adalah untuk mengamati karakteristik kandungan nutrisi setiap kelompok makanan. Data nutrisi makanan standar diperoleh dari lembaga USDA Amerika Serikat.
+Pada eksplorasi visualisasi data ini, kami menganalisis kandungan nutrisi sejumlah kelompok makanan. Tujuan dari analisis ini adalah untuk mengamati karakteristik kandungan nutrisi setiap kelompok makanan. Akan dijelaskan pula contoh pemanfaatan data ini untuk kegiatan yang bermanfaat. Data nutrisi makanan standar diperoleh dari lembaga USDA Amerika Serikat.
 
 ## USDA Food Composition
 [USDA](https://ndb.nal.usda.gov/ndb/) (United States Department of Agriculture) merupakan lembaga pemerintah Amerika Serikat di bidang agrikultur. Lembaga USDA menyediakan database nutrien sejumlah makanan. Standar pengukuran makanan merupakan 100 gram. 
@@ -57,5 +57,12 @@ Berikut merupakan rata-rata kandungan per kategori, dari terbesar hingga terkeci
 5. Snack, minuman, fast food = 49.2 gram
 6. Olahan gandum = 22.2 gram
 
+## Contoh Pemanfaatan Data Kandungan Makanan  
+Diet keto adalah diet yang terbukti efektif untuk banyak orang di dunia. Diet keto adalah salah satu diet yang menggunakan proporsi karbohidrat sangat sedikit, diikuti dengan lemak dan protein yang banyak. Mekanisme diet keto adalah memanfaatkan molekul "ketones" yang dihasilkan oleh hati, dengan bahan bakar lemak. Molekul ini dapat digunakan sebagai bahan bakar untuk seluruh tubuh. Dalam diet keto, tubuh akan menggunakan lemak sebagai bahan bakar utamanya, sehingga menjaga tingkat insulin serendah mungkin. Apabila tingkat insulin rendah, akan sangat mudah untuk membakar lemak.
+
+Untuk mencapai diet ini, diperlukan data nutrisi makanan yang tepat. Karena jumlah, jenis, dan cara memasak makanan tersebut dapat mempengaruhi hasil dari diet tersebut. Data nutrisi di atas dapat dijadikan acuan untuk memilih makanan yang tepat untuk mencapai diet keto. Rasio yang dianjurkan adalah 5% karbohidrat, 35% protein, dan sisanya adalah lemak. Data di atas menjelaskan secara rinci apa saja makanan yang dapat kita pilih untuk mencapai hasil yang maksimal.
+
 ## Kesimpulan
-Dari analisis ini diharapkan dapat menambah pengetahuan khususnya dalam menyusun program penyesuaian konsumsi per hari. Kemudian juga dapat dijadikan standar perencanaan konsumsi masyarakat secara masif.
+Dari analisis ini diharapkan dapat menambah pengetahuan khususnya dalam menyusun program penyesuaian konsumsi per hari.
+Contoh pemanfaatan data nutrisi ini dapat dilihat dalam penerapan diet keto dalam menentukan gaya hidup. 
+Kemudian juga dapat dijadikan standar perencanaan konsumsi masyarakat secara masif.
