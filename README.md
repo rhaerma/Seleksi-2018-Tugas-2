@@ -42,8 +42,8 @@ To access main dashboard, open `dashboard.html` on your browser.
 <hr>
 <h3 align="center">
   <br>
-  Erma Safira Nurmasyita - 13516072
-  <br>
   Adyllan Roaffa - 13516019
+  <br>
+  Erma Safira Nurmasyita - 13516072
   <br>
 </h3>
