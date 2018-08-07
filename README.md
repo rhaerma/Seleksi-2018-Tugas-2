@@ -12,15 +12,19 @@
   <br>
 </h2>
 
+This program is a dashboard for data visualization of nutrients food standard from [USDA Food Databases](https://ndb.nal.usda.gov/ndb/).
+
 ### Tools
-1. Highcharts JS
+1. HighchartsJS
 2. USDA Food Composition Scraper
 
 ### How to Run
-To access main dashboard, open `dashboard.html` on your html.
+To access main dashboard, open `dashboard.html` on your browser.
+
+### Screenshot
+![SS](img/dashboard.png)
 
 ### Specifications
-
 1. Tugas dikerjakan secara berkelompok dengan pembagian anggota yang dapat diakses pada link berikut: [Pembagian Kelompok Tugas 2](https://docs.google.com/spreadsheets/d/1rmLotmW_yk60mK78awBMLF9fTukAXSWLmQl1fVkHYn8/edit?usp=sharing).
 
 2. Setiap kelompok diminta untuk membuat sebuah dashboard interaktif yang memvisualisasikan data hasil scraping pada tugas 1. Data atau topik yang digunakan boleh memilih salah satu dari topik-topik anggota kelompok __ATAU__ mengkombinasikannya.
@@ -35,10 +39,11 @@ To access main dashboard, open `dashboard.html` on your html.
 
 7. Deadline pengumpulan tugas adalah __4 Agustus 2018 Pukul 23.59__
 
-
-<p align="center">
+<hr>
+<h3 align="center">
   <br>
-  Basdat Industries - Lab Basdat 2018
+  Erma Safira Nurmasyita - 13516072
   <br>
+  Adyllan Roaffa - 13516019
   <br>
-</p>
+</h3>
