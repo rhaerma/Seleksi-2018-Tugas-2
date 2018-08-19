@@ -2,9 +2,11 @@
     [
         "Fast Foods",
         "Beef Products",
+        "Dairy and Egg Products",
         "Vegetables and Vegetable Products",
         "Restaurant Foods",
-        "Cereal Grains and Pasta"
+        "Cereal Grains and Pasta",
+        "Finfish and Shellfish Products"
     ],
     [
         {
@@ -12,19 +14,23 @@
             "data": [
                 4.06,
                 6.4,
+                9.73,
                 0.14,
                 2.57,
-                0.5
+                0.5,
+                0.98
             ]
         },
         {
             "name": "Cholesterol",
             "data": [
-                38.71,
-                73.85,
-                0.94,
-                28.17,
-                4.92
+                0.39,
+                0.74,
+                0.75,
+                0.01,
+                0.28,
+                0.05,
+                0.67
             ]
         },
         {
@@ -32,9 +38,11 @@
             "data": [
                 1.64,
                 0.0,
+                0.13,
                 2.38,
                 1.6,
-                5.11
+                5.11,
+                0.03
             ]
         }
     ]

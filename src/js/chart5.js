@@ -8,7 +8,7 @@ $.getJSON( "data/chartdata/chart5.json", function( data ) {
             type: 'areaspline'
         },
         title: {
-            text: 'Average of cholesterol, fatty acid, and fiber of 3 Food Groups'
+            text: 'Average of cholesterol, fatty acid, and fiber of 7 Food Groups'
         },
         legend: {
             layout: 'vertical',

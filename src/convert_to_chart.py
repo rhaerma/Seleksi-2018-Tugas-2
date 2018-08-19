@@ -177,10 +177,10 @@ def chartPerGroup(dataset, summary, idx):
 
 def toChart5(dataset, summary):
     #count cholesterol, fat rate, per category
-    categlist = ['Fast Foods', 'Beef Products', 'Vegetables and Vegetable Products', 'Restaurant Foods', 'Cereal Grains and Pasta']
+    categlist = ['Fast Foods', 'Beef Products', 'Dairy and Egg Products', 'Vegetables and Vegetable Products', 'Restaurant Foods', 'Cereal Grains and Pasta','Finfish and Shellfish Products']
     nutrientlist = ['Fatty acids, total saturated', 'Cholesterol', 'Fiber, total dietary']
-    nutrientrate = [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
-    numdata = [0, 0, 0, 0, 0]
+    nutrientrate = [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+    numdata = [0, 0, 0, 0, 0, 0, 0]
     for group in summary['food_groups']:
         if group['name'] in categlist:
             idx = categlist.index(group['name'])
@@ -229,7 +229,7 @@ if __name__ == '__main__':
     #series = toChart2(summary, dataset)
     #main.saveJSONObject("chartdata/chart2.json", series)
     #obj = toChart3(summary, dataset)
-    #obj = toChart5(dataset, summary)
-    #main.saveJSONObject("chartdata/chart5.json", obj)
+    obj = toChart5(dataset, summary)
+    main.saveJSONObject("chartdata/chart5.json", obj)
 
     

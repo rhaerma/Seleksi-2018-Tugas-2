@@ -11,7 +11,7 @@ $.getJSON( "data/chartdata/chart1.json", function( data ) {
             type: 'pie'
         },
         title: {
-            text: 'Percentage of Food Groups'
+            text: 'Percentage of Major Food Groups'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
